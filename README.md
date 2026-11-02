@@ -1,0 +1,2 @@
+# Pr-ctica_clustering_K_means
+Práctica_clustering_K_means Optativa
